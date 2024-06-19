@@ -40,7 +40,7 @@
 }
 .mission p {
     font-family: sans-serif;
-    font-size: 40px;
+    font-size: 30px;
     font-weight: 600;
 }
 .Names {
@@ -55,8 +55,8 @@
 }
 .Names li { 
     align-items: center;
-    font-size: 45px;
+    font-size: 30px;
     font-family: Helvetica;
-    font-weight: 500;
+    font-weight: 600;
     margin: 3px;
 }
